@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from "../iba.svg";
+import logo from "../logo.svg";
 import { Link, animateScroll as scroll } from "react-scroll";
 
 export default class Navbar extends Component {
