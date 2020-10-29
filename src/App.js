@@ -3,21 +3,23 @@ import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
+import Header from "./Components/Header";
+import Registration from "./Components/Registration";
 import dummyText from "./DummyText";
 class App extends Component {
   render() {
     return (
       <div className="App">
         <Navbar />
-        <Section
-          title="Section 1"
-          subtitle={dummyText}
+        <Header
+          /*title="Section 1"
+          subtitle={dummyText}*/
           dark={true}
           id="section1"
         />
-        <Section
-          title="Section 2"
-          subtitle={dummyText}
+        <Registration
+          title="Registration Form"
+          subtitle="Please enter your information Below"
           dark={false}
           id="section2"
         />

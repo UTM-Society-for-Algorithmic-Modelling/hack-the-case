@@ -1,14 +1,15 @@
 {
-  "main.css": "/static/css/main.e1341e23.chunk.css",
-  "main.js": "/static/js/main.49e79fd6.chunk.js",
-  "main.js.map": "/static/js/main.49e79fd6.chunk.js.map",
-  "static/js/1.75eb94a5.chunk.js": "/static/js/1.75eb94a5.chunk.js",
-  "static/js/1.75eb94a5.chunk.js.map": "/static/js/1.75eb94a5.chunk.js.map",
+  "main.css": "/static/css/main.a42d1686.chunk.css",
+  "main.js": "/static/js/main.75a1111c.chunk.js",
+  "main.js.map": "/static/js/main.75a1111c.chunk.js.map",
+  "static/js/1.adf40441.chunk.js": "/static/js/1.adf40441.chunk.js",
+  "static/js/1.adf40441.chunk.js.map": "/static/js/1.adf40441.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.a42d1686.chunk.css.map": "/static/css/main.a42d1686.chunk.css.map",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.e1341e23.chunk.css.map": "/static/css/main.e1341e23.chunk.css.map",
+  "static/media/Hackathon.jpg": "/static/media/Hackathon.f52c322f.jpg",
   "index.html": "/index.html",
-  "precache-manifest.28166c0994fc649ca1bab0130602545f.js": "/precache-manifest.28166c0994fc649ca1bab0130602545f.js",
+  "precache-manifest.252c675858d909766df3e254a0f309c6.js": "/precache-manifest.252c675858d909766df3e254a0f309c6.js",
   "service-worker.js": "/service-worker.js"
 }
