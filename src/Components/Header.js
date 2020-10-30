@@ -5,12 +5,8 @@ export default function Header({ title, subtitle, dark, id }) {
   return (
       <div id={id}>
       <img src={background} style={{ "width": "100%" }}/>
-      /*<div className="section-content" id={id}>
-        <h1>{title}</h1>
-        <p>{subtitle}</p>
-      </div>*/
+      </div>
       
 	
-    </div>
   );
 }
