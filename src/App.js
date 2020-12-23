@@ -25,12 +25,12 @@ class App extends Component {
         />
         <Section
           title="About HTC"
-          subtitle="Welcome to Hack the Case. Imagine a hackathon, case competition, workshops, and game events mashed together with networking opportunities, and tons of prizes. That's us. Hack the Case is an innovation focused competition designed for diverse students of all backgrounds."	    
+          subtitle="Welcome to Hack the Case. Imagine a hackathon, case competition, workshops, and game events mashed together with networking opportunities, and tons of prizes. That's us. Hack the Case is an innovation focused competition designed for diversed students of all backgrounds."	    
           dark={true}
           id="section3"
         />
         <Section
-          title="Section 4"
+          title="HTC Information"
           subtitle={dummyText}
           dark={false}
           id="section4"
