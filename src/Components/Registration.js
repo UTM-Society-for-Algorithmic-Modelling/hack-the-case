@@ -16,11 +16,11 @@ return (
       <div className="section-content" id={id}>
 	<h1>{title}</h1>
         <p>{subtitle}</p>
-		<div>
-	        <ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx"  popup={false} style={{ display: "block", position: "relative", height: "400px"}} />
-	        </div>
-	{/*
-		<form style={{backgroundColor: "lightblue", padding: "20px 20px 20px 20px", borderRadius: '5px'}}>
+		 <div style={{ display: "block", position: "relative", minHeight: "500px", minWidth: "100%"}}>
+	<ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx"  popup={false} />
+	        </div> 
+		
+	{/* <form style={{backgroundColor: "lightblue", padding: "20px 20px 20px 20px", borderRadius: '5px'}}>
 	                <ul>
 	                <li style={{listStyleType: "none", margin: "20px 20px 20px 20px"}}> 
 			<label>Name: <input type="text" name="name" /></label>
