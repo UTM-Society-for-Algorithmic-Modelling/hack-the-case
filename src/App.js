@@ -6,6 +6,7 @@ import Section from "./Components/Section";
 import Header from "./Components/Header";
 import Registration from "./Components/Registration";
 import dummyText from "./DummyText";
+import HTCPartners from "./Components/HTCpartners";
 class App extends Component {
   render() {
     return (
@@ -35,8 +36,8 @@ class App extends Component {
           dark={false}
           id="section4"
         />
-        <Section
-          title="Section 5"
+        <HTCPartners
+          title="HTC Partners"
           subtitle={dummyText}
           dark={true}
           id="section5"
