@@ -38,7 +38,7 @@ class App extends Component {
         <Section
           title="Section 5"
           subtitle={dummyText}
-          dark={true}
+          dark={false}
           id="section5"
         />
       </div>
