@@ -19,8 +19,9 @@ return (
 	<h1>{title}</h1>
         <p>{subtitle}</p>
 		<div>
-	        <ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx" />
+	        <ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx"  popup={false} style={{ display: "block", position: "relative", height: "400px"}} />
 	        </div>
+	{/*
 		<form style={{backgroundColor: "lightblue", padding: "20px 20px 20px 20px", borderRadius: '5px'}}>
 	                <ul>
 	                <li style={{listStyleType: "none", margin: "20px 20px 20px 20px"}}> 
@@ -43,7 +44,7 @@ return (
 			<textarea name="group-members"></textarea></li>
 	                <li style={{listStyleType: "none", margin: "20px 20px 20px 20px"}}><input type="submit" value="Submit" style={{color: "#FFFFFF", backgroundColor:"#000000"}}/></li>
 			</ul>
-	</form>
+	</form> */}
       </div>
     </div>
   );
