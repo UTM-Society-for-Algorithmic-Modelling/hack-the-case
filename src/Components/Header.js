@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../logo.svg";
 import background from "./Hackathon.mp4";
+import { ReactTypeformEmbed } from 'react-typeform-embed';
 export default function Header({ title, subtitle, dark, id }) {
   return (
       <div id={id}>

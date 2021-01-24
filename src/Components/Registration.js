@@ -7,8 +7,11 @@ import {
 	  CardMedia,
 	  Typography
 } from '@material-ui/core';
-import * as typeformEmbed from "@typeform/embed";
+/*import * as typeformEmbed from "@typeform/embed";
+*/
 import { ReactTypeformEmbed } from 'react-typeform-embed';
+import Iframe from 'react-iframe';
+import Embed from 'react-embed';
 
 export default function Registration({ title, subtitle, dark, id }) {
 return (
@@ -16,12 +19,11 @@ return (
       <div className="section-content" id={id}>
 	<h1>{title}</h1>
         <p>{subtitle}</p>
-		 <div style={{ display: "block", position: "relative", minHeight: "500px", minWidth: "100%"}}>
-	<ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx"  popup={false} />
-	        </div> 
-		
+			 
+
+       <div className="typeform-widget" data-url="https://form.typeform.com/to/UqdIcXrx?typeform-medium=embed-snippet" style={{ width: "100%", height: "500px"}}></div> 		
 	{/* <form style={{backgroundColor: "lightblue", padding: "20px 20px 20px 20px", borderRadius: '5px'}}>
-	                <ul>
+	                <ul> https://form.typeform.com/to/UqdIcXrx'
 	                <li style={{listStyleType: "none", margin: "20px 20px 20px 20px"}}> 
 			<label>Name: <input type="text" name="name" /></label>
 	                </li>

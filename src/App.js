@@ -6,6 +6,7 @@ import Section from "./Components/Section";
 import Header from "./Components/Header";
 import Registration from "./Components/Registration";
 import dummyText from "./DummyText";
+import { ReactTypeformEmbed } from 'react-typeform-embed';
 import HTCPartners from "./Components/HTCpartners";
 class App extends Component {
   render() {
