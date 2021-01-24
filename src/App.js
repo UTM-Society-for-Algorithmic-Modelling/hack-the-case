@@ -31,7 +31,7 @@ class App extends Component {
           id="section3"
         />
         <Section
-          title="Hack The Case Information"
+          title="Competition Guideline"
           subtitle="The competition will start on Febuary 15 and end on Febuary 22. However, you are not required to be present throughout the week. We will soon reveal a detailed schedules with specific times for all subevents. During the week, Hack the Case will be hosting different workshops, mentorship, game nights, and networking opportunities. We also have awesome prizes prepared for the participants and winners, stay tuned for more updates!"
           dark={false}
           id="section4"
@@ -39,7 +39,7 @@ class App extends Component {
         <HTCPartners
           title="HTC Partners"
           subtitle={dummyText}
-          dark={true}
+          dark={false}
           id="section5"
         />
       </div>
