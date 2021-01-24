@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Hackathon.84f9045d.mp4"
   },
   {
-    "revision": "d520809e79c7a2c7d48c",
+    "revision": "c1f900bd6925ad75c674",
     "url": "/static/css/main.21fa6924.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/HTC.510f9a80.svg"
   },
   {
-    "revision": "d520809e79c7a2c7d48c",
-    "url": "/static/js/main.d520809e.chunk.js"
+    "revision": "c1f900bd6925ad75c674",
+    "url": "/static/js/main.c1f900bd.chunk.js"
   },
   {
     "revision": "c8a97fb463b110a3f4f8e09fca4f045f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/DSC.3c3b5f72.png"
   },
   {
-    "revision": "9859101aa6a60551cfe3f6c4e145d397",
+    "revision": "0d60995cdbd99d11859aa148a5594c7c",
     "url": "/index.html"
   }
 ];
