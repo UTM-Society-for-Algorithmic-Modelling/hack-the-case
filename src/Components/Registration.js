@@ -7,7 +7,8 @@ import {
 	  CardMedia,
 	  Typography
 } from '@material-ui/core';
-
+import * as typeformEmbed from "@typeform/embed";
+import { ReactTypeformEmbed } from 'react-typeform-embed';
 
 export default function Registration({ title, subtitle, dark, id }) {
 return (
@@ -17,7 +18,9 @@ return (
 	  </h3>
 	<h1>{title}</h1>
         <p>{subtitle}</p>
-
+		<div>
+	        <ReactTypeformEmbed url="https://form.typeform.com/to/UqdIcXrx" />
+	        </div>
 		<form style={{backgroundColor: "lightblue", padding: "20px 20px 20px 20px", borderRadius: '5px'}}>
 	                <ul>
 	                <li style={{listStyleType: "none", margin: "20px 20px 20px 20px"}}> 
