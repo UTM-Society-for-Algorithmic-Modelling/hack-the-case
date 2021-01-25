@@ -43,6 +43,11 @@ class App extends Component {
           dark={false}
           id="section5"
         />
+	<Section
+	  subtitle="Powered by React, React-smooth-scroll, original design by https://github.com/jamesqquick/React-With-Smooth-Scrolling"
+	       dark={true}
+	       id="section"
+	    />
       </div>
     );
   }

@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fee6c430.chunk.css",
-  "main.js": "/static/js/main.82e794e7.chunk.js",
-  "main.js.map": "/static/js/main.82e794e7.chunk.js.map",
+  "main.js": "/static/js/main.0fc6e1a8.chunk.js",
+  "main.js.map": "/static/js/main.0fc6e1a8.chunk.js.map",
   "static/js/1.a0b72656.chunk.js": "/static/js/1.a0b72656.chunk.js",
   "static/js/1.a0b72656.chunk.js.map": "/static/js/1.a0b72656.chunk.js.map",
   "static/js/2.53d98ed3.chunk.js": "/static/js/2.53d98ed3.chunk.js",
@@ -32,7 +32,7 @@
   "static/js/14.43d7f322.chunk.js.map": "/static/js/14.43d7f322.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.99827151.js",
   "runtime~main.js.map": "/static/js/runtime~main.99827151.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/media/logo.svg": "/static/media/logo.510f9a80.svg",
   "static/media/Hackathon.mp4": "/static/media/Hackathon.84f9045d.mp4",
   "static/media/MCSS.png": "/static/media/MCSS.c8a97fb4.png",
   "static/media/WiSC_Transparent_Logo_1.png": "/static/media/WiSC_Transparent_Logo_1.1185e014.png",
@@ -41,6 +41,6 @@
   "static/media/HTC.svg": "/static/media/HTC.510f9a80.svg",
   "static/css/main.fee6c430.chunk.css.map": "/static/css/main.fee6c430.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.36860d7a39ab06ae16d102525ddec822.js": "/precache-manifest.36860d7a39ab06ae16d102525ddec822.js",
+  "precache-manifest.54bee28c248b5300f4675774142b30dc.js": "/precache-manifest.54bee28c248b5300f4675774142b30dc.js",
   "service-worker.js": "/service-worker.js"
 }
