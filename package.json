@@ -6,9 +6,11 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@typeform/embed": "^0.34.0",
+    "bootstrap": "^4.6.0",
     "material-ui": "^0.20.2",
     "react": "^16.14.0",
-    "react-dom": "^16.6.0",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^16.14.0",
     "react-embed": "^3.3.2",
     "react-iframe": "^1.8.0",
     "react-scripts": "2.0.5",

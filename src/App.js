@@ -1,18 +1,37 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./Components/Navbar";
+/*import Navbar from "./Components/Navbar";*/
 import Section from "./Components/Section";
 import Header from "./Components/Header";
 import Registration from "./Components/Registration";
 import dummyText from "./DummyText";
 import { ReactTypeformEmbed } from 'react-typeform-embed';
 import HTCPartners from "./Components/HTCpartners";
+import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navbar />
+	    {/* <Navbar /> */}
+
+	<Navbar bg="light" variant="light" expand="lg" sticky="top">
+	                                    <Navbar.Brand href="#section1">
+	    				<img src={logo} className="nav-logo" alt="Logo"/> <b>Hack The Case 2021!</b>
+	    				 </Navbar.Brand>
+	                                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+	                                    <Navbar.Collapse id="basic-navbar-nav">
+	                                        <Nav className="mr-auto">
+	                                        <Nav.Link href="#section1">Home</Nav.Link>
+	                                        <Nav.Link href="#section2">Registration</Nav.Link>
+	                                        <Nav.Link href="#section3">About HTC</Nav.Link>
+	    					<Nav.Link href="#section4">Competition Guideline</Nav.Link>
+						<Nav.Link href="#section5">HTC Partners</Nav.Link>
+	                                        </Nav>
+	                                    </Navbar.Collapse>
+	                                </Navbar>
         <Header
           /*title="Section 1"
           subtitle={dummyText}*/
