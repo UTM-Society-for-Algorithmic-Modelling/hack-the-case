@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fb5034a3.chunk.css",
-  "main.js": "/static/js/main.7943a262.chunk.js",
-  "main.js.map": "/static/js/main.7943a262.chunk.js.map",
+  "main.js": "/static/js/main.8d3a159e.chunk.js",
+  "main.js.map": "/static/js/main.8d3a159e.chunk.js.map",
   "static/js/1.2633453e.chunk.js": "/static/js/1.2633453e.chunk.js",
   "static/js/1.2633453e.chunk.js.map": "/static/js/1.2633453e.chunk.js.map",
   "static/js/2.aba0b797.chunk.js": "/static/js/2.aba0b797.chunk.js",
@@ -39,9 +39,9 @@
   "static/media/UTMSAM_transparent_without_chaos.png": "/static/media/UTMSAM_transparent_without_chaos.0ef3cf9d.png",
   "static/media/DSC.png": "/static/media/DSC.3c3b5f72.png",
   "static/media/Hackathon.mp4": "/static/media/Hackathon.84f9045d.mp4",
-  "static/css/10.7933a36d.chunk.css.map": "/static/css/10.7933a36d.chunk.css.map",
   "static/css/main.fb5034a3.chunk.css.map": "/static/css/main.fb5034a3.chunk.css.map",
+  "static/css/10.7933a36d.chunk.css.map": "/static/css/10.7933a36d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.42690dc2da8905a2d692833cd9b9b883.js": "/precache-manifest.42690dc2da8905a2d692833cd9b9b883.js",
+  "precache-manifest.1d697ed1d2c079c7142a2379f2184e61.js": "/precache-manifest.1d697ed1d2c079c7142a2379f2184e61.js",
   "service-worker.js": "/service-worker.js"
 }
