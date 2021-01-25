@@ -19,7 +19,7 @@ class App extends Component {
 
 	<Navbar bg="light" variant="light" expand="lg" sticky="top">
 	                                    <Navbar.Brand href="#section1">
-	    				<img src={logo} className="nav-logo" alt="Logo"/> <b>Hack The Case 2021!</b>
+	    				<img src={logo} className="nav-logo" alt="Logo"/> <b>Hack The Case 2021</b>
 	    				 </Navbar.Brand>
 	                                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
 	                                    <Navbar.Collapse id="basic-navbar-nav">
