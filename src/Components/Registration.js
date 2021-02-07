@@ -18,6 +18,7 @@ return (
     <div className={"section" + (dark ? " section-dark" : "")}>
       <div className="section-content" id={id}>
 	<h1>{title}</h1>
+	<h2>Registration Deadline: February 12 2021</h2>
         <p>{subtitle}</p>
 			 
 
