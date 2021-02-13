@@ -6,6 +6,7 @@ import Section from "./Components/Section";
 import Header from "./Components/Header";
 import Registration from "./Components/Registration";
 import dummyText from "./DummyText";
+import Calandar from "./Components/Calendar"
 import { ReactTypeformEmbed } from 'react-typeform-embed';
 import HTCPartners from "./Components/HTCpartners";
 import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap';
@@ -28,7 +29,8 @@ class App extends Component {
 	                                        <Nav.Link href="#section2">Registration</Nav.Link>
 	                                        <Nav.Link href="#section3">About HTC</Nav.Link>
 	    					<Nav.Link href="#section4">Competition Guideline</Nav.Link>
-						<Nav.Link href="#section5">HTC Partners</Nav.Link>
+						<Nav.Link href="#section7">Timeline</Nav.Link>
+	                                        <Nav.Link href="#section5">HTC Partners</Nav.Link>
 	                                        </Nav>
 	                                    </Navbar.Collapse>
 	                                </Navbar>
@@ -55,6 +57,12 @@ class App extends Component {
           subtitle="The competition will start on February 15 and end on February 20. However, you are not required to be present throughout the week. We will soon reveal a detailed schedules with specific times for all subevents. During the week, Hack the Case will be hosting different workshops, mentorship, game nights, and networking opportunities. We also have awesome prizes prepared for the participants and winners, stay tuned for more updates!"
           dark={false}
           id="section4"
+        />
+        <Calandar
+          title="Competition and Workshop Timeline"
+          subtitle="d"
+          dark={false}
+          id="section7"
         />
         <HTCPartners
           title="HTC Partners"

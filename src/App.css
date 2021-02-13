@@ -55,3 +55,23 @@
   margin: 0 auto;
   padding: 40px;
 }
+
+.fc-event-time, .fc-event-title {
+  padding: 0 1px;
+  white-space: nowrap;
+  white-space: initial;
+  font-size: xx-small;  
+  text-overflow: ellipsis;
+}
+  .fc-event{
+    overflow-wrap: break-word;
+    height: inherit;
+  }
+  .fc .fc-col-header-cell-cushion {
+    display: inline-block;
+    padding: 2px 4px;
+    color: black;
+  }
+  .fc-daygrid-event-dot {
+    display: none;
+  }
