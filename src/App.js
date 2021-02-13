@@ -29,7 +29,8 @@ class App extends Component {
 	                                        <Nav.Link href="#section2">Registration</Nav.Link>
 	                                        <Nav.Link href="#section3">About HTC</Nav.Link>
 	    					<Nav.Link href="#section4">Competition Guideline</Nav.Link>
-						<Nav.Link href="#section5">HTC Partners</Nav.Link>
+						<Nav.Link href="#section7">Timeline</Nav.Link>
+	                                        <Nav.Link href="#section5">HTC Partners</Nav.Link>
 	                                        </Nav>
 	                                    </Navbar.Collapse>
 	                                </Navbar>
