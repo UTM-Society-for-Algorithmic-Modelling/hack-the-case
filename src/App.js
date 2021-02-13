@@ -59,7 +59,7 @@ class App extends Component {
           id="section4"
         />
         <Calandar
-          title="Workshop Timeline"
+          title="Competition and Workshop Timeline"
           subtitle="d"
           dark={false}
           id="section7"
